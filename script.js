@@ -1,0 +1,17 @@
+var firstname = `John`;
+var lastName = `Park`;
+ console.log(firstname);
+ console.log(lastName);
+ console.log(firstname.concat(lastName));
+ console.log(firstname.length);
+ console.log(lastName.replace ("Park", "Cena"));
+ var a = Math.PI;
+ console.log(a);
+ console.log(a.toFixed(2));
+ console.log(typeof a);
+ console.log(typeof firstname);
+ console.log(typeof [1,2,3]);
+ console.log("5" + "7");
+ console.log(5 + 7);
+ console.log(a++);
+ console.log(++a);
